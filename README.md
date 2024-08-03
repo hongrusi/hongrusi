@@ -1,9 +1,9 @@
 <h1 align="center">Hi 😎, I'm Stanley SI</h1>
-<h3 align="center">A passionate data analyst & engineer</h3>
+<h3 align="center">A professional data analyst & engineer</h3>
 
 - 📖 I’m currently learning **Data Engineering Full Stack**
 
-- 💬 Ask me about **Power BI, Tableau, SQL, AWS Cloud**
+- 💬 Ask me about **Power BI, Tableau, SQL, AWS Cloud, Git, Snowflake**
 
 - 📫 Email **hongrusi@gmail.com**
 
