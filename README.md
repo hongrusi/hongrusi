@@ -7,7 +7,7 @@
 
 - 📫 Email **hongrusi@gmail.com**
 
-- ⚡ Interest **I'm highly interested in geopolitics and is a part-time investor**
+- ⚡ **I'm highly interested in geopolitics and is a part-time investor**
 
 - 📑 Quote **Empires have no interest in operating within an international system; they aspire to be the international system**
 
